@@ -1,0 +1,6 @@
+[submodule "week1/AFL"]
+	path = week1/AFL
+	url = https://github.com/google/AFL.git
+[submodule "week1/openssl"]
+	path = week1/openssl
+	url = https://github.com/openssl/openssl.git
